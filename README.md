@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ezequiel Manzano
 
-<h3>Fullstack developer.</h3>
+<h3>Backend developer.</h3>
 <h5>• I'm a programming student, currently enrolled at UTN. After I finish the actual carreer I'll continue studying IT security. </h5>
 
 
